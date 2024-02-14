@@ -1,4 +1,4 @@
-﻿# BackendHuaycoSOS
+﻿# Backend de Aplicación Web de HuaycoSOS
 # Desarrolado por:
 - Alexander Noboru Oshita Rea
 - Rodrigo Antonio Velarde Galindo
